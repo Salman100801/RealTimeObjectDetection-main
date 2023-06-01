@@ -1,0 +1,10 @@
+Flow
+1. Clone repo
+2. Collect Images- code
+3. Setup labellmg
+4. Label Images
+5. Update labelmab
+6. Train
+7. Update checkpoint
+8. Detect
+
